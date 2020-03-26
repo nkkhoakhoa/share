@@ -1,0 +1,195 @@
+{
+  "d": {
+    "2879": [
+      "#{CauseV}"
+    ],
+    "3167": [
+      "#{CauseV}"
+    ]
+  },
+  "r": {
+    "2879": {
+      "_2879_en_Natural_Disaster_Impact_5": [
+        {
+          "namedElement": true,
+          "g": "2879",
+          "r": "_2879_en_Natural_Disaster_Impact_5",
+          "i": 1,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_2879_en_Natural_Disaster_Impact_18": [
+        {
+          "namedElement": true,
+          "g": "2879",
+          "r": "_2879_en_Natural_Disaster_Impact_18",
+          "i": 5,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_2879_en_Natural_Disaster_Impact_4": [
+        {
+          "namedElement": true,
+          "g": "2879",
+          "r": "_2879_en_Natural_Disaster_Impact_4",
+          "i": 2,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ]
+    },
+    "3167": {
+      "_3167_en_Country_NaturalDisaster_8": [
+        {
+          "namedElement": true,
+          "g": "3167",
+          "r": "_3167_en_Country_NaturalDisaster_8",
+          "i": 0,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_3167_en_Country_NaturalDisaster_7": [
+        {
+          "namedElement": true,
+          "g": "3167",
+          "r": "_3167_en_Country_NaturalDisaster_7",
+          "i": 0,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_3167_en_Country_NaturalDisaster_4": [
+        {
+          "namedElement": true,
+          "g": "3167",
+          "r": "_3167_en_Country_NaturalDisaster_4",
+          "i": 2,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_3167_en_Country_NaturalDisaster_6": [
+        {
+          "namedElement": true,
+          "g": "3167",
+          "r": "_3167_en_Country_NaturalDisaster_6",
+          "i": 4,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_3167_en_Country_NaturalDisaster_5": [
+        {
+          "namedElement": true,
+          "g": "3167",
+          "r": "_3167_en_Country_NaturalDisaster_5",
+          "i": 2,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_3167_en_Country_NaturalDisaster_28": [
+        {
+          "namedElement": true,
+          "g": "3167",
+          "r": "_3167_en_Country_NaturalDisaster_28",
+          "i": 4,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ],
+      "_3167_en_Country_NaturalDisaster_27": [
+        {
+          "namedElement": true,
+          "g": "3167",
+          "r": "_3167_en_Country_NaturalDisaster_27",
+          "i": 2,
+          "e": {
+            "t": "d",
+            "d": "#{CauseV}",
+            "in": null,
+            "ind": null,
+            "n": false
+          }
+        }
+      ]
+    }
+  },
+  "m": {
+    "by": {
+      "d": {
+        "1390": [
+          "NOT"
+        ]
+      },
+      "r": {
+        "1390": {
+          "_1390_en_Central_Banks_Action_3": [
+            {
+              "namedElement": true,
+              "g": "1390",
+              "r": "_1390_en_Central_Banks_Action_3",
+              "i": 0,
+              "e": {
+                "t": "d",
+                "d": "NOT",
+                "in": null,
+                "ind": null,
+                "n": true
+              }
+            }
+          ]
+        }
+      },
+      "m": {}
+    }
+  }
+}
